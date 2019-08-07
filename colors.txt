@@ -6,6 +6,10 @@ yellow
 white
 black
 purple
+<<<<<<< Updated upstream
 English lavander
 Amber
 Black coffee
+=======
+English lavander
+>>>>>>> Stashed changes

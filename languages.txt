@@ -3,3 +3,4 @@ sql
 html
 javaSkript
 Turkish
+Azeri
