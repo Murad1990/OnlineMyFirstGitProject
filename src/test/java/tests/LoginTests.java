@@ -34,7 +34,7 @@ public class LoginTests {
     @Test
     public void someTest(){
         String link="https://amazon.com";
-        driver.get();
+        driver.get(link);
     }
 
     @Test
