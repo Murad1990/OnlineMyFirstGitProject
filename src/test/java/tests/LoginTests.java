@@ -33,12 +33,14 @@ public class LoginTests {
 
     @Test
     public void someTest(){
-        driver.get("https://amazon.com");
+        String link="https://amazon.com";
+        driver.get();
     }
 
     @Test
     public void loginTest2(){
-        driver.get("https://ebay.com");
+        String link="https://ebay.com";
+        driver.get(link);
     }
 
 }
