@@ -36,4 +36,9 @@ public class LoginTests {
         driver.get("https://amazon.com");
     }
 
+    @Test
+    public void loginTest2(){
+        driver.get("https://ebay.com");
+    }
+
 }
