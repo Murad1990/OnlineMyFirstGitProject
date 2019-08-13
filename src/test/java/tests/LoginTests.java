@@ -41,4 +41,9 @@ public class LoginTests {
         driver.get("https://ebay.com");
     }
 
+    @Test
+    public void loginTest3(){
+        driver.get("https://wish.com");
+    }
+
 }
