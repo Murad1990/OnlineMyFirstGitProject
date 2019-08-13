@@ -43,4 +43,9 @@ public class LoginTests {
         driver.get(link);
     }
 
+    @Test
+    public void loginTest3(){
+        driver.get("https://wish.com");
+    }
+
 }
