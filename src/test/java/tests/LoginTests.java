@@ -9,7 +9,8 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
-
+//Open some urls
+//maintained some methods
 public class LoginTests {
     WebDriver driver;
 
